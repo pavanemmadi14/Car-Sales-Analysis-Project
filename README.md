@@ -63,12 +63,12 @@ This project focuses on analyzing car sales data using **Power BI** to uncover k
 * Connect to a live database
 * Improve visual storytelling
 
-## 👤 Author
+## Author
 
 **Emmadi Pavan**
   Data Analyst
 
-## 📬 Contact
+## Contact
 📧 [pavanemmadi5@gmail.com](mailto:pavanemmadi5@gmail.com)  
 📞 [+91 9701706026](tel:+919701706026)   
 💼 [LinkedIn](https://linkedin.com/in/pavan-emmadi-769790304)  
@@ -78,4 +78,4 @@ Feel free to connect for feedback or collaboration.
 
 ---
 
-⭐ If you find this project useful, consider giving it a star on GitHub!
+If you find this project useful, consider giving it a star on GitHub!
