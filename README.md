@@ -1,4 +1,4 @@
-# 🚗 Car Sales Analysis 
+# Car Sales Analysis 
 
 ## Project Overview
 
@@ -58,6 +58,11 @@ https://app.powerbi.com/view?r=eyJrIjoiOTlhZGMyZmMtMWUxYi00NDdlLWE1Y2ItNjc0NGIzN
 * Standardized column names
 * Created calculated columns and measures using DAX
 * Ensured data consistency and accuracy
+
+## Dashboard Preview
+<img width="1305" height="782" alt="Screenshot 2026-03-09 101749" src="https://github.com/user-attachments/assets/8acfb63e-7398-47e3-9b14-4b4989d1a881" />
+
+<img width="1302" height="778" alt="Screenshot 2026-03-09 101815" src="https://github.com/user-attachments/assets/fe861ab3-1ff7-49f0-8c67-cce4acea1e35" />
 
 ## Future Enhancements
 
