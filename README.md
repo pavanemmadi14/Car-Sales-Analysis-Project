@@ -1,8 +1,11 @@
-# 🚗 Car Sales Analysis (Power BI)
+# 🚗 Car Sales Analysis 
 
 ## Project Overview
 
 This project focuses on analyzing car sales data using **Power BI** to uncover key business insights such as sales performance, revenue trends, and customer preferences. The interactive dashboard helps stakeholders make data‑driven decisions quickly and effectively.
+
+## Live Dashboard Link
+https://app.powerbi.com/view?r=eyJrIjoiOTlhZGMyZmMtMWUxYi00NDdlLWE1Y2ItNjc0NGIzNGQ0ZjZlIiwidCI6IjA4ZDA4NzAwLWNjYzktNDZkZC04M2ZlLTViZjQwYzE3ZTNlZiJ9
 
 ## Objectives
 
